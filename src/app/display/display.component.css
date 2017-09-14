@@ -1,0 +1,12 @@
+  div.container {
+    width:98%; 
+    margin:1%;
+  }
+  table#table1 {
+    margin-top: 10%;
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:50%;
+  }
+  tr,td {text-align:left;}
